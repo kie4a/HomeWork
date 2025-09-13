@@ -30,7 +30,8 @@ void main() {
     }
   });
 
-  // طباعة النتائج
+
   print("Words that appear only once: ${uniqueWords.join(", ")}");
   print("Total count of unique words: ${uniqueWords.length}");
 }
+
